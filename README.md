@@ -3,6 +3,18 @@ I built SDF to solve a problem I kept running into: the most consequential decis
 The solution I landed on was structural. Instead of trying to make better decisions in the moment, I built a framework that forces structure before reasoning begins. Hard requirements are defined and enforced before scoring starts. Preferences are weighted explicitly rather than felt implicitly. The AI handles structured reasoning within the constraint space I defined. I own the output and iterate the rules when the prior version breaks.
 The result is a single, unambiguous decision with documented rationale every time — regardless of the domain, the complexity of the inputs, or how much I want a particular outcome to win.
 
+-
+
+**A note on AI access:**
+
+Running SDF effectively requires access to a large language model. Claude, GPT, and Gemini all work — SDF has been validated across all three. Free tiers are available for all of them and are sufficient for occasional use, but they come with limitations: reduced context windows, daily message caps, and memory constraints that can affect longer or more complex evaluations. For consistent, uninterrupted use — especially if you're running JAF regularly against an active job pipeline — a paid subscription to at least one of these platforms is recommended.
+
+Current paid options as of this writing: Claude Pro, ChatGPT Plus, and Gemini Advanced. Pricing and tier features change — check each platform directly for current details.
+
+Ideally SDF would run on a purpose-built model trained specifically on the framework's logic, constraint architecture, and decision methodology. If the resources to build that existed, that's exactly what this would be. For now, general-purpose LLMs with the right constraint architecture applied on top produce consistent, reliable results — which is the whole point of building the framework the way it was built.
+
+You don't need all three models. Pick one you're comfortable with and use it consistently. The framework works the same way regardless of which model is underneath it.
+
 # The Problem SDF Solves
 Most decision processes fail the same way: they treat hard requirements and preferences as equivalent, allow strong scores to rescue failed constraints, and produce outputs that change based on how the question was framed. That's not a decision framework — it's rationalization with extra steps.
 SDF is built on a different premise. Hard requirements and preferences are architecturally separated and scored differently. A preference bonus can never compensate for a failed hard requirement. The constraint space is defined before reasoning begins and held constant through evaluation. Every output is traceable to the rules that produced it.
