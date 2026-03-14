@@ -3,8 +3,6 @@ I built SDF to solve a problem I kept running into: the most consequential decis
 The solution I landed on was structural. Instead of trying to make better decisions in the moment, I built a framework that forces structure before reasoning begins. Hard requirements are defined and enforced before scoring starts. Preferences are weighted explicitly rather than felt implicitly. The AI handles structured reasoning within the constraint space I defined. I own the output and iterate the rules when the prior version breaks.
 The result is a single, unambiguous decision with documented rationale every time — regardless of the domain, the complexity of the inputs, or how much I want a particular outcome to win.
 
--
-
 **A note on AI access:**
 
 Running SDF effectively requires access to a large language model. Claude, GPT, and Gemini all work — SDF has been validated across all three. Free tiers are available for all of them and are sufficient for occasional use, but they come with limitations: reduced context windows, daily message caps, and memory constraints that can affect longer or more complex evaluations. For consistent, uninterrupted use, a paid subscription to at least one of these platforms is recommended.
