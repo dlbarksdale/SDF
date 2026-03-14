@@ -122,8 +122,6 @@ If you have an independent project, open-source contribution, or portfolio work 
 
 You can just delete this section and move on. But you will be leaving one of the highest-leverage differentiators on the table that this framework has to offer.
 
----
-
 A portfolio or independent project cannot hurt a fit score in any category. It either adds value or scores zero. Never negative.
 
 The weight it carries depends entirely on how directly it addresses the stated requirements of the category being evaluated. A project that evidences the core capability a target audience is hiring for scores at full weight as direct experience — it is not a side project, not a nice-to-have, not a differentiator. It is primary evidence. A project adjacent to the category scores as a bonus signal. A project tangentially related scores as a minor positive when it connects to a stated requirement.
