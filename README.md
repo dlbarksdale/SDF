@@ -7,11 +7,11 @@ The result is a single, unambiguous decision with documented rationale every tim
 
 **A note on AI access:**
 
-Running SDF effectively requires access to a large language model. Claude, GPT, and Gemini all work — SDF has been validated across all three. Free tiers are available for all of them and are sufficient for occasional use, but they come with limitations: reduced context windows, daily message caps, and memory constraints that can affect longer or more complex evaluations. For consistent, uninterrupted use — especially if you're running JAF regularly against an active job pipeline — a paid subscription to at least one of these platforms is recommended.
+Running SDF effectively requires access to a large language model. Claude, GPT, and Gemini all work — SDF has been validated across all three. Free tiers are available for all of them and are sufficient for occasional use, but they come with limitations: reduced context windows, daily message caps, and memory constraints that can affect longer or more complex evaluations. For consistent, uninterrupted use, a paid subscription to at least one of these platforms is recommended.
 
 Current paid options as of this writing: Claude Pro, ChatGPT Plus, and Gemini Advanced. Pricing and tier features change — check each platform directly for current details.
 
-Ideally SDF would run on a purpose-built model trained specifically on the framework's logic, constraint architecture, and decision methodology. If the resources to build that existed, that's exactly what this would be. For now, general-purpose LLMs with the right constraint architecture applied on top produce consistent, reliable results — which is the whole point of building the framework the way it was built.
+Ideally SDF would run on a purpose-built model trained specifically on the framework's logic, constraint architecture, and decision methodology. If the resources to build that existed for me, that's exactly what this would be. For now, general-purpose LLMs with the right constraint architecture applied on top produce consistent, reliable results — which is the whole point of building the framework the way it was built.
 
 You don't need all three models. Pick one you're comfortable with and use it consistently. The framework works the same way regardless of which model is underneath it.
 
