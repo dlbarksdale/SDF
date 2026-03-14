@@ -8,11 +8,13 @@ INPUT
   → Full: Complete analysis with tactical output guidance
   → Elite: Maximum investment, custom output preparation
   ↓
+  
 [STAGE 1: HARD-GATE CLASSIFICATION]
   → Three-tier routing: Hard Rules → Signal Routing → Content Evaluation
   → FAIL: Eliminated from consideration immediately
   → PASS: Evaluation lens bound to classification category
   ↓
+  
 [STAGE 2: WEIGHTED SCORING]
   → Evidence ceiling defined — scoring cannot exceed evidenced capability
   → Hard requirements scored at full weight
@@ -20,12 +22,14 @@ INPUT
   → Gaps evaluated against ramp time tier: Days / Weeks / Months / Different Domain
   → Preferred bonuses cannot compensate for hard requirement failures
   ↓
+  
 [STAGE 3: RISK TIERING]
   → Inputs classified: Low / Medium / High
   → Category-level risk flags surfaced explicitly
   → Each pressure point includes evaluation survivability call
   → Scope realism rule applied — evaluate requirements described, not label
   ↓
+  
 [STAGE 4: HUMAN VALIDATION & OUTPUT OWNERSHIP]
   → Trajectory impact evaluated across all dimensions
   → Anchoring applied on strong-fit inputs
