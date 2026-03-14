@@ -176,6 +176,6 @@ The framework logic does not change. Only the inputs do.
 
 ## Current Version
 
-JAF 2.7. Active and in production. See the changelog at the bottom of JAF_2_7.md for the full version history and the failure mode that each version increment resolved.
+JAF 2.8. Active and in production. See the changelog at the bottom of JAF_2_8.md for the full version history and the failure mode that each version increment resolved.
 
 ---
