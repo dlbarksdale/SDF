@@ -1,4 +1,4 @@
-# What Is SDF?
+# What Is the Structured Decision Framework (SDF)?
 I built SDF to solve a problem I kept running into: the most consequential decisions I faced were also the ones I was least equipped to make well. Incomplete information, no reliable advisor, and my own judgment clouded by what I wanted the answer to be. I'd evaluate things inconsistently, weigh factors differently depending on the day, and couldn't clearly explain my rationale afterward.
 The solution I landed on was structural. Instead of trying to make better decisions in the moment, I built a framework that forces structure before reasoning begins. Hard requirements are defined and enforced before scoring starts. Preferences are weighted explicitly rather than felt implicitly. The AI handles structured reasoning within the constraint space I defined. I own the output and iterate the rules when the prior version breaks.
 The result is a single, unambiguous decision with documented rationale every time — regardless of the domain, the complexity of the inputs, or how much I want a particular outcome to win.
