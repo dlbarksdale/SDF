@@ -2,9 +2,17 @@
 
 ### A Domain-Specific Implementation of the Structured Decision Framework (SDF)
 
----
 
-## What Is JAF
+---
+**Think LinkedIn skills match — but actually useful.**
+
+LinkedIn recommends roles based on keyword overlap. Indeed matches on similar logic with less precision. ClearanceJobs has the strongest platform-native matching of the three — but it requires an active clearance and only surfaces cleared or contractor roles. All three share the same fundamental limitation: they match what your resume says against what a job posting says, with no understanding of domain depth, career trajectory, compensation positioning, or whether the role actually fits where you're trying to go.
+
+JAF does what none of them do. It doesn't match keywords — it evaluates fit. It accounts for what you can actually defend in an interview, what the role is worth relative to your baseline, what accepting it does to your positioning two years from now, and whether the effort of applying is justified by the quality of the opportunity. It produces a verdict, not a percentage.
+
+You can use all three platforms to find opportunities. Use JAF to decide which ones are actually worth your time.
+
+# What Is JAF
 
 JAF is a fully built application of SDF applied to a single, high-stakes, recurring decision: should I apply to this job, and if so, how much effort does it deserve?
 
